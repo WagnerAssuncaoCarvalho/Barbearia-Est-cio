@@ -1,0 +1,36 @@
+.principal {
+    background-color: #CCCCCC;    
+    border-radius: 1em;
+}
+
+#imagem {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: red;
+}
+
+.beneficios {
+    background:#FFFFFF;
+}
+
+.itens {
+    font-style: italic;
+}
+
+h2 {
+    text-align: center;
+}
