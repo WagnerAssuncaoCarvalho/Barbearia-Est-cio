@@ -1,6 +1,7 @@
 .principal {
     background-color: #CCCCCC;    
     border-radius: 1em;
+    padding: 30px;
 }
 
 #imagem {
@@ -25,6 +26,7 @@ em strong {
 
 .beneficios {
     background:#FFFFFF;
+    padding: 20px;
 }
 
 .itens {
@@ -32,5 +34,26 @@ em strong {
 }
 
 h2 {
+    text-align: center;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.titulo-principal {
+    padding-left: 50px;
+    background: #789;
+    border-radius: 1em;
+}
+
+.titulo-centralizado {
     text-align: center;
 }
