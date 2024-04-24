@@ -27,3 +27,39 @@ nav a {
     width: 840px;
     margin: 0 auto;
 }
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    background:#CCCCCC;
+    margin: 0 1 1.4%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px #000000 solid;
+    border-radius: 10px;
+}
+
+.produto-preco {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.produto-descricao {
+    font-size: 15px;
+}
+
+nav a:hover {
+    color:#C78C19;
+    text-decoration: underline;
+}
